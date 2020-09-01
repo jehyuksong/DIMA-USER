@@ -1,0 +1,58 @@
+/* Main */
+body {
+  font-family: "Gugi", cursive;
+  font-weight: 300;
+  padding: 50px;
+}
+
+.title {
+  font-size: 50px;
+  color: #2c2c2c;
+}
+
+/* Navigation Bar */
+.navbar {
+  background-color: #fff !important;
+  padding: 0;
+  margin: 0 0 50px;
+  border-bottom: 1px solid #2c2c2c;
+}
+
+.navbar-brand {
+  margin-right: 80px;
+}
+
+.nav-item {
+  margin: 0 40px 0 0;
+}
+
+.nav-link {
+  color: #363636 !important;
+  font-size: 25px;
+}
+
+.search-input {
+  border-color: #363636;
+}
+
+.search-btn {
+  border-color: #363636;
+  color: #363636;
+}
+
+.hamburger-btn {
+  border-color: #363636;
+  background-color: #fff;
+}
+
+/* Post Section  */
+
+/* Footer Section */
+.footer-box {
+  margin: 30px 0;
+  text-align: center;
+}
+
+.footer-comment {
+  color: rgb(214, 118, 118) !important;
+}
